@@ -1,0 +1,22 @@
+{
+  "name": "USDC Test",
+  "symbol": "USDCTEST",
+  "description": "Test version of USDC token",
+  "image": "https://raw.githubusercontent.com/godcandletoken/metadata/refs/heads/main/usdc-test-logo.jpg",
+  "external_url": "https://god-token.web.app",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/godcandletoken/metadata/refs/heads/main/usdc-test-logo.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "token",
+    "creators": [
+      {
+        "address": "ABEGDTNPVRaBQ9uUxFWvbBsg9KRqYFtNkbYqTnesA1Fg",
+        "share": 100
+      }
+    ]
+  }
+} 
