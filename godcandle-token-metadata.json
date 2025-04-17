@@ -1,0 +1,26 @@
+{
+  "name": "GODCANDLE",
+  "symbol": "GOD",
+  "description": "The ultimate divine token.",
+  "image": "https://raw.githubusercontent.com/godcandletoken/metadata/refs/heads/main/god-token-logo.jpg",
+  "external_url": "https://god-token.web.app",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/godcandletoken/metadata/refs/heads/main/god-token-logo.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "token",
+    "creators": [
+      {
+        "address": "ABEGDTNPVRaBQ9uUxFWvbBsg9KRqYFtNkbYqTnesA1Fg",
+        "share": 100
+      }
+    ],
+    "tax": {
+      "fee_percent": 20,
+      "fee_recipient": "3jiQZ1SM8MVswvsY4Ch7Ghe4qNyfJN7iSFensxTz5jFU"
+    }
+  }
+} 
